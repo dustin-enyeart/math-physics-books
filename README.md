@@ -3,7 +3,7 @@
 # Best Math and Physics Books
 
 This is a list of what I consider to be the best books on mathematics and physics. 
-Despite the impression from its length, this list is highly selective. 
+Despite its length, this list is highly selective. 
 
 
 ## Fundamental Mathematics 
